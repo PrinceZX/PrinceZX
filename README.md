@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Parmar
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python and AI
+- 🌱 I’m currently learning Python, ML and AI
 
 
 <!---
